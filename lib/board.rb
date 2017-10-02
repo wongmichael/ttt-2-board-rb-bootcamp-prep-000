@@ -1,3 +1,11 @@
 # Define the variable board below.
 board = []
-board.push(" ")*9
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
+board.push(" ")
